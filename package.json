@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vigintillionn/rustyjs.git"
+    "url": "git+https://github.com/Vigintillionn/rustyjs.git"
   },
   "bugs": {
     "url": "https://github.com/Vigintillionn/rustyjs/issues"
